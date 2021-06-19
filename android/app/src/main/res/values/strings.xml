@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">EasyEngApp</string>
+    <string name="app_name">EasyEng</string>
+    <string name="facebook_app_id">1374419052937005</string>
 </resources>

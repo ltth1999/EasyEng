@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127199155703",
+    "project_id": "easyeng-83912",
+    "storage_bucket": "easyeng-83912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127199155703:android:f0caf352a63934aa10caf2",
+        "android_client_info": {
+          "package_name": "com.easyeng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127199155703-jaen3pm18brkfoca40eota1fmdlrh8se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxWFjw6272jC5GkV_XYhtU8b2hRJg4rTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127199155703-jaen3pm18brkfoca40eota1fmdlrh8se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
